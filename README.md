@@ -11,4 +11,4 @@ Obtaining samples from authentic Search and Rescue (SaR) scenarios often proves 
 We adopted an approach to artificially synthesize samples, which incorporating merging numerous visible images via cropping and stitching techniques alongside sourcing high-resolution training samples rendered from cropped regions consistently featuring at least one person. The offline Mosaic approach was applied to infrared images to ensure equivalent sample sizes and consistent crop positioning between visible and infrared images within the same batch. Furthermore, we utilized a simple linear weighting methodology to merge visible and infrared images.
 ![fig10](imgs/fig10.png)
 
-The dataset can be downlaoded from https://pan.baidu.com/s/12P4tUg03KSYQYlA3E1iD0Q?pwd=zs5z, the code is zs5z.
+The dataset can be downlaoded from [https://pan.baidu.com/s/12P4tUg03KSYQYlA3E1iD0Q?pwd=zs5z](https://pan.baidu.com/s/1y_kgH4riGIVp7rqTNh6h6A?pwd=qqru), the code is qqru.
