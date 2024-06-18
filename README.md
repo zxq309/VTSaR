@@ -1,5 +1,6 @@
 # Aerial Person Detection for Search and Rescue: Survey and Benchmarks
-## Collection process of VTSaR Dataset
+
+## Collection of VTSaR Dataset
 
 <p align="justify">
 We have conducted a comprehensive Aerial Person Detection (APD) dataset labeled as ”VTSaR”, which stands out from the existing publicly accessible APD datasets by offering a greater diversity of scenes, varying personnel behaviors, flexible capture angles, differing capture heights, and an inclusion of aligned visible and infrared samples along with synthetic samples. Our captured system is equipped with a dual-camera gimbal that integrates visible and infrared cameras. This configuration facilitates the simultaneous acquisition of visible and infrared images, providing a diverse corpus of image data gleaned from different perspectives and under varied visibility conditions.  
