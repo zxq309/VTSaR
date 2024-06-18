@@ -1,6 +1,4 @@
-<p align="justify">
-  # Aerial Person Detection for Search and Rescue: Survey and Benchmarks
-</p>
+# Aerial Person Detection for Search and Rescue: Survey and Benchmarks
 
 ## Collection of VTSaR Dataset
 
