@@ -38,13 +38,13 @@ The dataset can be downloaded from [https://pan.baidu.com/s/12P4tUg03KSYQYlA3E1i
 
 ```
 @article{zhangRobustAerialPerson2024,
-  title = {Robust {{Aerial Person Detection With Lightweight Distillation Network}} for {{Edge Deployment}}},
+  title = {Robust Aerial Person Detection With Lightweight Distillation Network for Edge Deployment},
   author = {Zhang, Xiangqing and Feng, Yan and Zhang, Shun and Wang, Nan and Lu, Guohua and Mei, Shaohui},
   year = {2024},
   month = jul,
   journal = {IEEE Transactions on Geoscience and Remote Sensing},
   volume = {62},
-  pages = {1--16},
+  pages = {1-16},
   doi = {10.1109/TGRS.2024.3421310}
 }
 ```
