@@ -33,3 +33,8 @@ We adopted an approach to artificially synthesize samples, which incorporating m
 
 
 The dataset can be downloaded from [https://pan.baidu.com/s/12P4tUg03KSYQYlA3E1iD0Q?pwd=zs5z](https://pan.baidu.com/s/1y_kgH4riGIVp7rqTNh6h6A?pwd=qqru), the code is qqru.
+
+## Citation
+$$
+[1] Zhang X, Feng Y, Zhang S, Wang N, Lu G, Mei S. Robust Aerial Person Detection With Lightweight Distillation Network for Edge Deployment[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1-16.
+$$
