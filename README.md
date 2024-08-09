@@ -34,7 +34,7 @@ We adopted an approach to artificially synthesize samples, which incorporating m
 
 The dataset can be downloaded from [https://pan.baidu.com/s/12P4tUg03KSYQYlA3E1iD0Q?pwd=zs5z](https://pan.baidu.com/s/1y_kgH4riGIVp7rqTNh6h6A?pwd=qqru), the code is qqru.
 
-## Citation
+## Related Published Paper
 
 ```
 @article{zhangRobustAerialPerson2024,
